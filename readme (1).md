@@ -6,5 +6,5 @@
 
 The Dataset is taken from Kaggle.
 
-To Dwonload the dataset search on kaggle "student performance" or
+To Download the dataset search on kaggle "student performance" or
 use this G-drive link :- https://www.kaggle.com/code/oguzuzan/student-performance/input
